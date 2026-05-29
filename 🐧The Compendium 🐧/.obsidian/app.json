@@ -1,0 +1,17 @@
+{
+  "focusNewTab": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "vimMode": true,
+  "showInlineTitle": true,
+  "userIgnoreFilters": [
+    "01 Media/",
+    "02 Templates/",
+    "03 Kanbans/",
+    "04 Canvas/",
+    "05 Bases/"
+  ],
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "openBehavior": "file:00 🏞️ Dashboard 🏞️"
+}

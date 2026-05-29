@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "insert-template",
+    "theme:switch",
+    "app:open-settings",
+    "obsidian-git:init-repo"
+  ]
+}

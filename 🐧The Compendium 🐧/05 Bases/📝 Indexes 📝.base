@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.hasTag("#indexNoteType")
+properties:
+  file.name:
+    displayName: Note
+views:
+  - type: table
+    name: Index Notes
+    order:
+      - file.name
+    sort:
+      - property: tags
+        direction: ASC
+      - property: file.ctime
+        direction: ASC
+    limit: 10
+    columnSize:
+      file.name: 651

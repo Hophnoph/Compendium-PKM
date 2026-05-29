@@ -1,0 +1,12 @@
+{
+  "accentColor": "#bfa3ff",
+  "cssTheme": "",
+  "theme": "obsidian",
+  "showRibbon": false,
+  "showViewHeader": true,
+  "baseFontSize": 22,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "nativeMenus": false
+}

@@ -1,0 +1,8 @@
+filters:
+  and:
+    - file.links.length == 0
+    - file.backlinks.length == 0
+
+views:
+  - type: table
+    name: Orphan Notes
