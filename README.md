@@ -7,7 +7,7 @@ tailored for knowledge workers, including developers & personal use
 - Kanban support
 - Git support for Backups and Syncing
 - Vim/Helix keybinding support
-- over 50 themes preinstalled
+- over 50 preinstalled themes
 
 ## Setup
 1. clone this repo
