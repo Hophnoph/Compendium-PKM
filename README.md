@@ -14,3 +14,18 @@ tailored for knowledge workers, including developers & personal use
 2. move the **[🐧The Compendium 🐧](https://github.com/Hophnoph/Compendium-PKM/tree/main/%F0%9F%90%A7The%20Compendium%20%F0%9F%90%A7)** folder to your preferd vault directory
 3. open it up with obsidian
 4. read the **[Tutorial](https://github.com/Hophnoph/Compendium-PKM/blob/main/%F0%9F%90%A7The%20Compendium%20%F0%9F%90%A7/Tutorial.md)** note in order to know how to use it
+
+## Information
+- Community Themes Installed
+  - calender
+  - obsidian-git
+  - obsidian-kanban
+  - obsidian-style-settings
+
+- Community Plugins Installed
+  - Adwaita
+  - AnuPpuccin
+  - Atom
+  - Baseline
+  - Blue Topaz
+  - ...
