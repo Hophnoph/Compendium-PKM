@@ -6,11 +6,12 @@ it uses the ZettleKasten note taking method
 
 ## Setup
 1. clone this repo
-2. move the [🐧The Compendium 🐧](https://github.com/Hophnoph/Compendium-PKM/tree/main/%F0%9F%90%A7The%20Compendium%20%F0%9F%90%A7) folder to your preferd vault directory
+2. move the **[🐧The Compendium 🐧](https://github.com/Hophnoph/Compendium-PKM/tree/main/%F0%9F%90%A7The%20Compendium%20%F0%9F%90%A7)** folder to your preferd vault directory
 3. open it up with obsidian
-4. read the **Tutorial** note in order to know how to use it
+4. read the **[Tutorial](https://github.com/Hophnoph/Compendium-PKM/blob/main/%F0%9F%90%A7The%20Compendium%20%F0%9F%90%A7/Tutorial.md)** note in order to know how to use it
 
 ## Features
 - ZettleKasten first
-- kanban plugin and native vim/helix keybinding support
-- it comes with over 50 preinstalled themes
+- Kanban support
+- Vim/Helix keybinding support
+- over 50 themes preinstalled
