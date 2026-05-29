@@ -24,13 +24,13 @@ tailored for knowledge workers, including developers & personal use
 4. read the **[Tutorial](https://github.com/Hophnoph/Compendium-PKM/blob/main/%F0%9F%90%A7The%20Compendium%20%F0%9F%90%A7/Tutorial.md)** note in order to know how to use it
 
 ## Information
-- Community Plugins Installed
+- Community Plugins
   - calender
   - obsidian-git
   - obsidian-kanban
   - obsidian-style-settings
 
-- Community Themes Installed
+- Community Themes
   - Adwaita
   - AnuPpuccin
   - Atom
