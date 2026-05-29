@@ -1,4 +1,12 @@
 # The Compendium PKM System
+> [!warning]
+> This Vault is not compeleted yet.
+> - Todo
+>   - [ ] add Helix keybindings & full Vim support
+>   - [ ] create a tutorial note
+>   - [ ] add kanban templates
+>   - [ ] list all themes + add their links
+
 a Simple & Minmial Obsidian vault Personal Knowledge Managment system template
 tailored for knowledge workers, including developers & personal use
 
