@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00 🏞️ Dashboard 🏞️.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,7 +33,7 @@
       {
         "id": "3353415489cecd7c",
         "type": "tabs",
-        "dimension": 50.80763582966226,
+        "dimension": 48.9451476793249,
         "children": [
           {
             "id": "461a1f857ffc20f8",
@@ -68,13 +68,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b30188f467c0077c",
         "type": "tabs",
-        "dimension": 49.19236417033774,
+        "dimension": 51.0548523206751,
         "children": [
           {
             "id": "a0931ce476ef046a",
@@ -123,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 386.5
   },
   "right": {
     "id": "f44ea1210258fa01",
@@ -210,8 +209,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,42 +225,11 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "audio-recorder:Start/stop recording": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "4cbcc34a208ce018",
-  "lastOpenFiles": [
-    "todo.md",
-    "00 🏞️ Dashboard 🏞️.md",
-    "05 Bases/📎 Orphans 📎.base1i0kDj.bck",
-    "05 Bases/📝 Indexes 📝.baseERaCJw.bck",
-    "05 Bases/📝 Indexes 📝.base1G4PEB.bck",
-    "05 Bases/📎 Orphans 📎.base",
-    "05 Bases/🎯 Projects 🎯.base",
-    "05 Bases/📝 Indexes 📝.base",
-    "Untitled.md",
-    "05 Bases/📔 Journals 📔.base",
-    "05 Bases/📥️ Inbox 📥️.baseT0VE6F.bck",
-    "05 Bases/📔 Journal 📔.basePwYt9D.bck",
-    "05 Bases/📥️ Inbox 📥️.base",
-    "02 Templates/3 Journal Note 📔.md",
-    "Tutorial.md",
-    "05 Bases/Untitled.md",
-    "02 Templates/1 Index Note 📝.md",
-    "02 Templates/2 Permanent Note 📚️.md",
-    "ddsqdsq.md",
-    "README.md",
-    "01 Media/Videos/keepme.for.mp4.md",
-    "01 Media/Photos/keepme.for.jpeg.md",
-    "01 Media/Documents/keepme.for.pdf.md",
-    "01 Media/Audio/keepme.for.mp3.md",
-    "03 Kanbans/keepme.for.kanbans.md",
-    "05 Bases/keepme.for.bases.md",
-    "04 Canvas/keepme.for.canvases.md",
-    "02 Templates/4 Fleeting Note 🧠.md",
-    "02 Templates/4 Reference Note.md",
-    "Welcome.md"
-  ]
+  "lastOpenFiles": []
 }

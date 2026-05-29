@@ -1,12 +1,13 @@
 {
-  "accentColor": "#bfa3ff",
-  "cssTheme": "",
+  "accentColor": "#bea8f0",
+  "cssTheme": "Iridium",
   "theme": "obsidian",
   "showRibbon": false,
   "showViewHeader": true,
-  "baseFontSize": 22,
+  "baseFontSize": 23,
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font Mono",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": []
 }
