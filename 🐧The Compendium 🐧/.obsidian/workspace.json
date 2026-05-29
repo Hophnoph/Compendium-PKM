@@ -33,7 +33,7 @@
       {
         "id": "3353415489cecd7c",
         "type": "tabs",
-        "dimension": 48.9451476793249,
+        "dimension": 50.80763582966226,
         "children": [
           {
             "id": "461a1f857ffc20f8",
@@ -73,7 +73,7 @@
       {
         "id": "b30188f467c0077c",
         "type": "tabs",
-        "dimension": 51.0548523206751,
+        "dimension": 49.19236417033774,
         "children": [
           {
             "id": "a0931ce476ef046a",
@@ -138,8 +138,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
