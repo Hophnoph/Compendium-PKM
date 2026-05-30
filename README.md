@@ -24,16 +24,27 @@ tailored for knowledge workers, including developers & personal use
 4. read the **[Tutorial](https://github.com/Hophnoph/Compendium-PKM/blob/main/%F0%9F%90%A7The%20Compendium%20%F0%9F%90%A7/Tutorial.md)** note in order to know how to use it
 
 ## Information
-- Community Plugins
-  - calender
-  - obsidian-git
-  - obsidian-kanban
-  - obsidian-style-settings
+- Preinstalled Community Plugins
+  - [calender](https://github.com/liamcain/obsidian-calendar-plugin)
+  - [git](https://github.com/Vinzent03/obsidian-git)
+  - [kanban](https://github.com/obsidian-community/obsidian-kanban)
+  - [style-settings](https://github.com/obsidian-community/obsidian-style-settings)
 
-- Community Themes
+- Preinstalled Community Themes
   - Adwaita
-  - AnuPpuccin
-  - Atom
+  - Anuppuccin
   - Baseline
-  - Blue Topaz
+  - Atom
+  - Dracula
+  - Border
+  - Baseline
+  - Catppuccin
+  - Cupertino
+  - Everforest
+  - Iridium
+  - Gruvbox
+  - Nord
+  - Primary
+  - Retroma
+  - Tokyo Night
   - ...
