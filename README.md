@@ -29,7 +29,7 @@ tailored for knowledge workers, including developers & personal use
   - [kanban](https://github.com/obsidian-community/obsidian-kanban)
   - [style-settings](https://github.com/obsidian-community/obsidian-style-settings)
 
-- Preinstalled Community Themes
+- Some of the Preinstalled Community Themes
   - Adwaita
   - Anuppuccin
   - Baseline
