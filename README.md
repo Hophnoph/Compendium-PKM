@@ -4,7 +4,6 @@
 > - Todo
 >   - [ ] add Helix keybindings & full Vim support
 >   - [ ] create a tutorial note
->   - [ ] add kanban templates
 
 a Simple & Minmial Obsidian vault Personal Knowledge Managment system template
 tailored for knowledge workers, including developers & personal use
